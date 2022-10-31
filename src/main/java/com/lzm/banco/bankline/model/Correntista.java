@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name="tab_correntista")
-public class Correntista
+public class Correntista {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
