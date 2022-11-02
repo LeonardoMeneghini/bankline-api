@@ -1,7 +1,10 @@
 # bankline-api
 
-Introdução
+
 O projeto é uma proposta de bankline para gestão de correntistas e movimetações de receitas e depesas.
+
+#TODO
+Deploy no Heroku.
 
 
 
